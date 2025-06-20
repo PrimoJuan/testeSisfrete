@@ -137,7 +137,7 @@ API REST criada para o teste técnico da empresa sisfrete.
 | idCategoria      | int      |
 | descricaoCategoria | varchar |
 
-### ProdutoCategoria (pivot)
+### ProdutoCategoria 
 
 | Campo             | Tipo  |
 |-------------------|-------|
